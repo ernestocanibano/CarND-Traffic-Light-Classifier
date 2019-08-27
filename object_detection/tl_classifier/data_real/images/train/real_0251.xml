@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>real_0251</filename>
+  <path>/home/ernesto/udacity/models/object_detection/tl_classifier/data_real/images/train/real_0251.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>green</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>408</xmin>
+      <ymin>79</ymin>
+      <xmax>436</xmax>
+      <ymax>158</ymax>
+    </bndbox>
+  </object>
+</annotation>

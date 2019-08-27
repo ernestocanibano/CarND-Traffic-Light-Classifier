@@ -1,0 +1,26 @@
+<annotation>
+  <folder>test</folder>
+  <filename>real_0553</filename>
+  <path>/home/ernesto/udacity/models/object_detection/tl_classifier/data_real/images/test/real_0553.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>red</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>329</xmin>
+      <ymin>51</ymin>
+      <xmax>374</xmax>
+      <ymax>177</ymax>
+    </bndbox>
+  </object>
+</annotation>
